@@ -1,0 +1,25 @@
+{
+  "name": "projectgulp",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "gulp": "gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^9.8.0",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^2.6.5"
+  },
+  "browserslist": [
+    "last 50 versions"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1"
+  },
+  "description": ""
+}

@@ -1,10 +1,10 @@
 {
-  "name": "projectgulp",
+  "name": "testgulp",
   "version": "1.0.0",
-  "main": "main.js",
-  "scripts": {
-    "gulp": "gulp"
-  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
@@ -16,10 +16,5 @@
   },
   "browserslist": [
     "last 50 versions"
-  ],
-  "dependencies": {
-    "bootstrap": "^4.5.0",
-    "jquery": "^3.5.1"
-  },
-  "description": ""
+  ]
 }
